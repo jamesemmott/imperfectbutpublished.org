@@ -1,8 +1,12 @@
 # imperfectbutpublished.org
 
+Build the site:
+
+    make clean && make
+
 Start a local HTTP server:
 
-    python3 -m http.server
+    python3 -m http.server --directory site
 
 [http://0.0.0.0:8000](http://0.0.0.0:8000)
 
