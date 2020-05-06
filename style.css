@@ -3,7 +3,13 @@
 /* imperfectbutpublished.org */
 
 body {
+  margin: 0 auto;
   padding: 2%;
+  max-width: 40em;
+}
+
+header {
+  margin-bottom: 2em;
 }
 
 header h1 {
@@ -19,6 +25,10 @@ header a,
 footer a {
   color: black;
   text-decoration: none;
+}
+
+footer {
+  margin-top: 2em;
 }
 
 footer p {
