@@ -2,6 +2,11 @@
 
 /* imperfectbutpublished.org */
 
+
+html {
+  overflow-y: scroll;
+}
+
 body {
   margin: 0 auto;
   padding: 2%;
