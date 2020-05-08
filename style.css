@@ -63,3 +63,7 @@ article p {
 article footer {
   margin-top: 1.5em;
 }
+
+time {
+  font-style: italic;
+}
