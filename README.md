@@ -6,7 +6,7 @@ Build the site:
 
 Start a local HTTP server:
 
-    python3 -m http.server --directory site
+    python3 -m local.server
 
 [http://0.0.0.0:8000](http://0.0.0.0:8000)
 
