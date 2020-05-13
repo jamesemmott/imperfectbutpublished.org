@@ -4,7 +4,7 @@ Build the site:
 
     make clean && make
 
-Start a local HTTP server:
+Serve files from the build directory (`./site`):
 
     python3 -m local.server
 
